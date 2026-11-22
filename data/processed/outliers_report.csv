@@ -1,0 +1,594 @@
+indicator,country,year,region,income_level,value,lower_iqr_bound,upper_iqr_bound,direction,was_imputed
+gdp,South Africa,2000,Sub-Saharan Africa,Upper middle income,151752757215.309,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2000,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,99838543960.0763,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2001,Sub-Saharan Africa,Upper middle income,135429905922.526,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2001,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,96684636118.5984,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2001,Sub-Saharan Africa,Lower middle income,73557840064.489,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2002,Sub-Saharan Africa,Upper middle income,129087556612.449,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2002,Sub-Saharan Africa,Lower middle income,95054059302.6995,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2002,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,85146067415.7303,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2003,Sub-Saharan Africa,Upper middle income,197018965308.697,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2003,Sub-Saharan Africa,Lower middle income,104738954264.226,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2003,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,80288461538.4615,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2003,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,73482264190.9245,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2004,Sub-Saharan Africa,Upper middle income,255806908594.573,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2004,Sub-Saharan Africa,Lower middle income,135764731645.611,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2004,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,91913680985.1708,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2004,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,78782467532.4675,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2005,Sub-Saharan Africa,Upper middle income,288867217196.534,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2005,Sub-Saharan Africa,Lower middle income,175670569969.346,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2005,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,107046618669.707,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2005,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,89660339660.3397,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2006,Sub-Saharan Africa,Upper middle income,303858675363.643,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2006,Sub-Saharan Africa,Lower middle income,238454997161.48,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2006,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,123084258693.01,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2006,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,107426086956.522,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2006,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,75883823300.8545,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2007,Sub-Saharan Africa,Upper middle income,333077117253.684,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2007,Sub-Saharan Africa,Lower middle income,278260846800.103,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2007,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,142482739809.849,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2007,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,130437828371.278,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2007,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,86947913286.728,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2007,Sub-Saharan Africa,Lower middle income,73037821926.4655,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2008,Sub-Saharan Africa,Lower middle income,339476276257.793,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2008,Sub-Saharan Africa,Upper middle income,316131258616.309,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2008,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,180383848331.135,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2008,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,162818181818.182,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2008,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,101822906949.063,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2008,Sub-Saharan Africa,Lower middle income,98790432989.3077,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Libya,2008,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,86710767415.1371,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2009,Sub-Saharan Africa,Upper middle income,329754060647.129,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2009,Sub-Saharan Africa,Lower middle income,295008835380.997,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2009,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,189147005444.646,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2009,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,150317292079.359,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2009,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,101154952240.881,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2009,Sub-Saharan Africa,Lower middle income,81705175408.8809,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2010,Sub-Saharan Africa,Upper middle income,417363822801.713,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2010,Sub-Saharan Africa,Lower middle income,366990417129.04,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2010,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,218983666061.706,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2010,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,177785053939.531,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2010,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,100865329473.44,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2010,Sub-Saharan Africa,Lower middle income,95546919754.2873,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Libya,2010,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,75380825062.4216,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2011,Sub-Saharan Africa,Upper middle income,458199494830.834,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2011,Sub-Saharan Africa,Lower middle income,414466676831.16,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2011,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,235989672977.625,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2011,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,218331946925.304,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2011,Sub-Saharan Africa,Lower middle income,125551634704.941,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2011,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,110080631332.375,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2012,Sub-Saharan Africa,Lower middle income,463971018239.281,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2012,Sub-Saharan Africa,Upper middle income,434400545085.811,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2012,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,279116666666.667,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2012,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,227143746075.934,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2012,Sub-Saharan Africa,Lower middle income,143572907527.976,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2012,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,106937392311.129,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Libya,2012,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,92540938129.1315,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2013,Sub-Saharan Africa,Lower middle income,520117180313.906,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2013,Sub-Saharan Africa,Upper middle income,400886013595.573,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2013,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,288434108527.132,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2013,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,229701430292.157,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2013,Sub-Saharan Africa,Lower middle income,148845200696.335,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2013,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,115739287305.08,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Libya,2013,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,75351107029.0605,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2014,Sub-Saharan Africa,Lower middle income,574183763411.508,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2014,Sub-Saharan Africa,Upper middle income,381198869776.106,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2014,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,305595408895.265,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2014,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,238942664192.59,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2014,Sub-Saharan Africa,Lower middle income,153449860495.966,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2014,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,119130841411.664,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2015,Sub-Saharan Africa,Lower middle income,493026682800.63,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2015,Sub-Saharan Africa,Upper middle income,346709790458.563,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2015,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,329366576819.407,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2015,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,187493855609.345,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2015,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,110413823841.592,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2015,Sub-Saharan Africa,Lower middle income,102543067840.819,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2016,Sub-Saharan Africa,Lower middle income,404649125252.16,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2016,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,332441717791.411,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2016,Sub-Saharan Africa,Upper middle income,323585509674.481,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2016,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,180763839522.151,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2016,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,111572947004.917,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2016,Sub-Saharan Africa,Lower middle income,74815144163.8931,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2017,Sub-Saharan Africa,Upper middle income,381448814653.456,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2017,Sub-Saharan Africa,Lower middle income,375745731053.427,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2017,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,248362771739.13,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2017,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,189880896903.073,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2017,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,118540573367.844,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2017,Sub-Saharan Africa,Lower middle income,85629598654.1906,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2017,Sub-Saharan Africa,Lower middle income,82036510877.2599,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ethiopia,2017,Sub-Saharan Africa,Low income,76366081766.6667,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2018,Sub-Saharan Africa,Lower middle income,421739251509.08,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2018,Sub-Saharan Africa,Upper middle income,405260723892.517,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2018,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,262588632526.73,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2018,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,194554483655.528,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2018,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,127341147581.818,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2018,Sub-Saharan Africa,Lower middle income,92202979985.2863,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2018,Sub-Saharan Africa,Lower middle income,90506061877.2765,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ethiopia,2018,Sub-Saharan Africa,Low income,83337901071.9697,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Libya,2018,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,76686029772.1483,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2019,Sub-Saharan Africa,Lower middle income,668219992686.575,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2019,Sub-Saharan Africa,Upper middle income,389330032224.269,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2019,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,318678815489.749,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2019,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,193459662090.677,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2019,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,128920266409.458,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2019,Sub-Saharan Africa,Lower middle income,100378436207.371,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ethiopia,2019,Sub-Saharan Africa,Low income,91834517113.6386,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2019,Sub-Saharan Africa,Lower middle income,81193813808.0382,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2020,Sub-Saharan Africa,Lower middle income,598586817817.392,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2020,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,383817841547.099,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2020,Sub-Saharan Africa,Upper middle income,337974655408.055,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2020,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,164873415325.201,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2020,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,121353645057.144,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2020,Sub-Saharan Africa,Lower middle income,100657505750.545,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ethiopia,2020,Sub-Saharan Africa,Low income,98676811061.9985,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2021,Sub-Saharan Africa,Lower middle income,609147716965.348,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2021,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,424671765455.704,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2021,Sub-Saharan Africa,Upper middle income,419986284375.368,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2021,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,186231205262.082,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2021,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,142022058447.231,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2021,Sub-Saharan Africa,Lower middle income,109703658904.994,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ethiopia,2021,Sub-Saharan Africa,Low income,109070960370.972,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ghana,2021,Sub-Saharan Africa,Lower middle income,79514204730.3979,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2021,Sub-Saharan Africa,Lower middle income,78283923543.8237,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Cote d'Ivoire,2021,Sub-Saharan Africa,Lower middle income,72794636653.7793,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2022,Sub-Saharan Africa,Lower middle income,646950257575.455,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2022,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,476747720364.742,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2022,Sub-Saharan Africa,Upper middle income,407596043067.885,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2022,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,225581644702.568,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2022,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,131245312804.483,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2022,Sub-Saharan Africa,Lower middle income,128233959333.275,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ethiopia,2022,Sub-Saharan Africa,Low income,123140304665.399,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2022,Sub-Saharan Africa,Lower middle income,114448978152.637,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Tanzania,2022,Sub-Saharan Africa,Lower middle income,75749121846.9703,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ghana,2022,Sub-Saharan Africa,Lower middle income,73919003212.1998,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2023,Sub-Saharan Africa,Lower middle income,487387801877.803,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2023,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,395926071447.591,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2023,Sub-Saharan Africa,Upper middle income,381440724491.232,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2023,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,247923887214.655,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2023,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,146036093666.762,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ethiopia,2023,Sub-Saharan Africa,Low income,135874093203.18,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2023,Sub-Saharan Africa,Lower middle income,107500884685.013,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2023,Sub-Saharan Africa,Lower middle income,106042349567.303,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Cote d'Ivoire,2023,Sub-Saharan Africa,Lower middle income,80780312569.1646,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ghana,2023,Sub-Saharan Africa,Lower middle income,80547146875.9526,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Tanzania,2023,Sub-Saharan Africa,Lower middle income,79030935638.1317,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,South Africa,2024,Sub-Saharan Africa,Upper middle income,401144998373.585,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Egypt, Arab Rep.",2024,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,389059910593.1,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Algeria,2024,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,269322281664.773,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Nigeria,2024,Sub-Saharan Africa,Lower middle income,252261880140.271,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Morocco,2024,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,160610994054.734,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ethiopia,2024,Sub-Saharan Africa,Low income,149740297952.375,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Kenya,2024,Sub-Saharan Africa,Lower middle income,120397537849.826,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Angola,2024,Sub-Saharan Africa,Lower middle income,103080538044.058,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Cote d'Ivoire,2024,Sub-Saharan Africa,Lower middle income,87113179149.284,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Ghana,2024,Sub-Saharan Africa,Lower middle income,83288585604.0268,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,Tanzania,2024,Sub-Saharan Africa,Lower middle income,79235713444.9777,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp,"Congo, Dem. Rep.",2024,Sub-Saharan Africa,Low income,75716176105.0704,-38010866633.7884,72173442686.55768,above_upper_bound,False
+gdp_per_capita,Seychelles,2000,Sub-Saharan Africa,High income,8063.65500575169,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2000,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,7214.10040377084,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2001,Sub-Saharan Africa,High income,8153.2986369879,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2001,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,6312.80030498965,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2002,Sub-Saharan Africa,High income,8864.16919495467,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2003,Sub-Saharan Africa,High income,9070.28460757013,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2004,Sub-Saharan Africa,High income,10827.671636033,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2005,Sub-Saharan Africa,High income,11802.1118276833,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2005,Sub-Saharan Africa,Upper middle income,8673.9026086535,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2005,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,8079.24957329001,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2005,Sub-Saharan Africa,Upper middle income,6547.87613955186,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2006,Sub-Saharan Africa,High income,12782.9938926475,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2006,Sub-Saharan Africa,Upper middle income,10184.8841248541,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2006,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,10048.8480434289,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2006,Sub-Saharan Africa,Upper middle income,6847.00985685394,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2007,Sub-Saharan Africa,High income,12669.3026687222,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2007,Sub-Saharan Africa,Upper middle income,12616.9532942011,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2007,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,11144.9448413435,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2007,Sub-Saharan Africa,Upper middle income,8003.54289696049,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2007,Sub-Saharan Africa,Upper middle income,6677.37538616398,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2007,Sub-Saharan Africa,Upper middle income,6591.85535960564,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2008,Sub-Saharan Africa,Upper middle income,18210.5552970599,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2008,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,13906.1407818125,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2008,Sub-Saharan Africa,High income,11265.4376270005,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2008,Sub-Saharan Africa,Upper middle income,9688.64519690633,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2008,Sub-Saharan Africa,Upper middle income,8140.47983639243,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2009,Sub-Saharan Africa,Upper middle income,13232.5019378102,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2009,Sub-Saharan Africa,High income,9747.09180546291,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2009,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,9551.05403869755,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2009,Sub-Saharan Africa,Upper middle income,7426.86137313939,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2009,Sub-Saharan Africa,Upper middle income,7290.57526093114,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2009,Sub-Saharan Africa,Upper middle income,6374.70560042992,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2010,Sub-Saharan Africa,Upper middle income,13720.1658723222,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2010,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,11600.9068649472,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2010,Sub-Saharan Africa,High income,10934.79494629,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2010,Sub-Saharan Africa,Upper middle income,8356.74662013345,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2010,Sub-Saharan Africa,Upper middle income,8113.17670740212,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2010,Sub-Saharan Africa,Upper middle income,7973.47195771517,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2010,Sub-Saharan Africa,Upper middle income,6215.73216077919,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2011,Sub-Saharan Africa,Upper middle income,17198.2136668275,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2011,Sub-Saharan Africa,High income,12110.0937461973,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2011,Sub-Saharan Africa,Upper middle income,10219.1139339454,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2011,Sub-Saharan Africa,Upper middle income,9324.24232310496,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2011,Sub-Saharan Africa,Upper middle income,8646.05571071635,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2011,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,7593.8391525702,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2011,Sub-Saharan Africa,Upper middle income,7287.38295334919,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2012,Sub-Saharan Africa,Upper middle income,17308.5723924575,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2012,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,14975.8902795144,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2012,Sub-Saharan Africa,High income,12337.1554669388,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2012,Sub-Saharan Africa,Upper middle income,9421.52514098225,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2012,Sub-Saharan Africa,Upper middle income,9296.96587941088,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2012,Sub-Saharan Africa,Upper middle income,8076.97678479741,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2012,Sub-Saharan Africa,Upper middle income,6595.53845015424,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2013,Sub-Saharan Africa,Upper middle income,16304.0713196418,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2013,Sub-Saharan Africa,High income,14821.2921476077,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2013,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,11951.7134126011,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2013,Sub-Saharan Africa,Upper middle income,9877.13865958834,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2013,Sub-Saharan Africa,Upper middle income,9197.70106323947,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2013,Sub-Saharan Africa,Upper middle income,7331.65467384919,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2013,Sub-Saharan Africa,Upper middle income,6666.91219583487,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2014,Sub-Saharan Africa,Upper middle income,15548.6624656619,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2014,Sub-Saharan Africa,High income,15188.1902175113,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2014,Sub-Saharan Africa,Upper middle income,10490.3315563853,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2014,Sub-Saharan Africa,Upper middle income,9201.36276648105,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2014,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,8926.42074591474,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2014,Sub-Saharan Africa,Upper middle income,7122.36423421503,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2014,Sub-Saharan Africa,Upper middle income,6856.73137092522,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2015,Sub-Saharan Africa,High income,15333.1051727105,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2015,Sub-Saharan Africa,Upper middle income,9630.5437837507,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2015,Sub-Saharan Africa,Upper middle income,9068.91003238645,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2015,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,7458.48917756374,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2015,Sub-Saharan Africa,Upper middle income,7047.12654634355,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2016,Sub-Saharan Africa,High income,16566.9946042294,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2016,Sub-Saharan Africa,Upper middle income,10095.1225574156,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2016,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,7525.80299308216,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2016,Sub-Saharan Africa,Upper middle income,7453.19797948517,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2016,Sub-Saharan Africa,Upper middle income,6749.05994339013,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2016,Sub-Saharan Africa,Upper middle income,6677.07003901644,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2017,Sub-Saharan Africa,High income,17480.3651911372,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2017,Sub-Saharan Africa,Upper middle income,10986.7034093005,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2017,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,9965.83236729757,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2017,Sub-Saharan Africa,Upper middle income,7809.10465655488,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2017,Sub-Saharan Africa,Upper middle income,7104.96401088027,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2017,Sub-Saharan Africa,Upper middle income,6921.73373135624,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2017,Sub-Saharan Africa,Upper middle income,6618.33508255701,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2018,Sub-Saharan Africa,High income,18440.2340460932,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2018,Sub-Saharan Africa,Upper middle income,11818.7480619272,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2018,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,11196.5854810844,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2018,Sub-Saharan Africa,Upper middle income,8102.47084834031,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2018,Sub-Saharan Africa,Upper middle income,7624.2775233771,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2018,Sub-Saharan Africa,Upper middle income,7407.95940141786,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2018,Sub-Saharan Africa,Upper middle income,6914.1780318076,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2019,Sub-Saharan Africa,High income,19141.5118743615,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2019,Sub-Saharan Africa,Upper middle income,11568.2533399824,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2019,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,9963.19489084483,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2019,Sub-Saharan Africa,Upper middle income,7441.1786472281,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2019,Sub-Saharan Africa,Upper middle income,7172.08956480028,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2019,Sub-Saharan Africa,Upper middle income,6804.14923073888,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2019,Sub-Saharan Africa,Upper middle income,6533.71121032856,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2020,Sub-Saharan Africa,High income,14041.4754074575,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2020,Sub-Saharan Africa,Upper middle income,9135.84773751062,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2020,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,6650.33810585348,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2020,Sub-Saharan Africa,Upper middle income,6605.80346077904,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2020,Sub-Saharan Africa,Upper middle income,6323.2974967659,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2021,Sub-Saharan Africa,High income,14982.9111487767,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2021,Sub-Saharan Africa,Upper middle income,9177.71195973013,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2021,Sub-Saharan Africa,Upper middle income,8181.40914134398,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2021,Sub-Saharan Africa,Upper middle income,7807.88794570471,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2021,Sub-Saharan Africa,Upper middle income,6945.63069794539,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2021,Sub-Saharan Africa,Upper middle income,6828.75624590017,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2022,Sub-Saharan Africa,High income,16682.6990711785,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2022,Sub-Saharan Africa,Upper middle income,10246.5017455553,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2022,Sub-Saharan Africa,Upper middle income,8409.20741452279,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2022,Sub-Saharan Africa,Upper middle income,8328.7090572666,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2022,Sub-Saharan Africa,Upper middle income,7589.29964909381,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2022,Sub-Saharan Africa,Upper middle income,6534.24867783397,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2023,Sub-Saharan Africa,High income,18130.5297135548,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2023,Sub-Saharan Africa,Upper middle income,11269.9684462139,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2023,Sub-Saharan Africa,Upper middle income,7827.30027960734,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2023,Sub-Saharan Africa,Upper middle income,7802.82433276138,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2023,Sub-Saharan Africa,Upper middle income,6788.35271638376,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Seychelles,2024,Sub-Saharan Africa,High income,18364.5259678223,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Mauritius,2024,Sub-Saharan Africa,Upper middle income,11990.9355434317,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Gabon,2024,Sub-Saharan Africa,Upper middle income,8230.04311451151,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Botswana,2024,Sub-Saharan Africa,Upper middle income,7649.81663744354,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Equatorial Guinea,2024,Sub-Saharan Africa,Upper middle income,7003.58055684906,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,Libya,2024,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,6569.16408678648,-2799.339158132841,6213.051079649576,above_upper_bound,False
+gdp_per_capita,South Africa,2024,Sub-Saharan Africa,Upper middle income,6267.186814093,-2799.339158132841,6213.051079649576,above_upper_bound,False
+inflation_rate,"Congo, Dem. Rep.",2000,Sub-Saharan Africa,Low income,513.906843747535,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2000,Sub-Saharan Africa,Lower middle income,324.99687160132,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ghana,2000,Sub-Saharan Africa,Lower middle income,40.240933123914,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2000,Sub-Saharan Africa,Low income,29.5814884631683,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zambia,2000,Sub-Saharan Africa,Lower middle income,26.0304117888121,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Burundi,2000,Sub-Saharan Africa,Low income,24.4320242102151,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,"Congo, Dem. Rep.",2001,Sub-Saharan Africa,Low income,359.936614264585,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2001,Sub-Saharan Africa,Lower middle income,152.561022469298,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ghana,2001,Sub-Saharan Africa,Lower middle income,41.509496287803,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2001,Sub-Saharan Africa,Low income,22.7,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zambia,2001,Sub-Saharan Africa,Lower middle income,21.3937821792545,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Libya,2001,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,-8.81393752145546,-8.308853846641538,20.11527205050505,below_lower_bound,False
+inflation_rate,Lesotho,2001,Sub-Saharan Africa,Lower middle income,-9.61615353858472,-8.308853846641538,20.11527205050505,below_lower_bound,False
+inflation_rate,Angola,2002,Sub-Saharan Africa,Lower middle income,108.897436089429,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Lesotho,2002,Sub-Saharan Africa,Lower middle income,33.8125783381259,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,"Congo, Dem. Rep.",2002,Sub-Saharan Africa,Low income,31.5225826025495,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zambia,2002,Sub-Saharan Africa,Lower middle income,22.2333446430946,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2002,Sub-Saharan Africa,Low income,22.2247241495905,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Libya,2002,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,-9.79764705882355,-8.308853846641538,20.11527205050505,below_lower_bound,False
+inflation_rate,Angola,2003,Sub-Saharan Africa,Lower middle income,98.2241436573304,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ghana,2003,Sub-Saharan Africa,Lower middle income,29.7729797160383,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zambia,2003,Sub-Saharan Africa,Lower middle income,21.4015783901995,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2004,Sub-Saharan Africa,Lower middle income,43.5421067519686,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Guinea,2005,Sub-Saharan Africa,Lower middle income,31.3733025877534,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2005,Sub-Saharan Africa,Lower middle income,22.9535138513939,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,"Congo, Dem. Rep.",2005,Sub-Saharan Africa,Low income,21.316816722934,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Guinea,2006,Sub-Saharan Africa,Lower middle income,34.6952705997072,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sao Tome and Principe,2006,Sub-Saharan Africa,Lower middle income,23.0770373451381,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Chad,2007,Sub-Saharan Africa,Low income,-8.9747396200927,-8.308853846641538,20.11527205050505,below_lower_bound,False
+inflation_rate,Ethiopia,2008,Sub-Saharan Africa,Low income,44.3566858766951,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Seychelles,2008,Sub-Saharan Africa,High income,36.9647582875288,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sao Tome and Principe,2008,Sub-Saharan Africa,Lower middle income,31.9901039492573,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Kenya,2008,Sub-Saharan Africa,Lower middle income,26.2398166445062,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Burundi,2008,Sub-Saharan Africa,Low income,24.4069510353913,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Guinea,2008,Sub-Saharan Africa,Lower middle income,23.0656129387979,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Seychelles,2009,Sub-Saharan Africa,High income,31.7544407744178,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Lesotho,2009,Sub-Saharan Africa,Lower middle income,-16.8596910540644,-8.308853846641538,20.11527205050505,below_lower_bound,False
+inflation_rate,South Sudan,2011,Sub-Saharan Africa,Low income,46.8521757193597,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ethiopia,2011,Sub-Saharan Africa,Low income,33.2499598823344,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Guinea,2011,Sub-Saharan Africa,Lower middle income,21.3169268542577,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,South Sudan,2012,Sub-Saharan Africa,Low income,45.5258978371705,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2012,Sub-Saharan Africa,Low income,35.5590574147024,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ethiopia,2012,Sub-Saharan Africa,Low income,23.600417677317,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2012,Sub-Saharan Africa,Low income,21.2712650013779,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2013,Sub-Saharan Africa,Low income,36.5223449139154,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2013,Sub-Saharan Africa,Low income,27.2833333333333,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Djibouti,2013,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,-12.563149225034,-8.308853846641538,20.11527205050505,below_lower_bound,False
+inflation_rate,Sudan,2014,Sub-Saharan Africa,Low income,36.9066427863595,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2014,Sub-Saharan Africa,Low income,23.7920649469686,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,South Sudan,2015,Sub-Saharan Africa,Low income,52.7663304192142,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2015,Sub-Saharan Africa,Low income,21.8673475542552,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,South Sudan,2016,Sub-Saharan Africa,Low income,379.999585624026,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2016,Sub-Saharan Africa,Lower middle income,30.6944150806719,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Libya,2016,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,25.853874212446,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2016,Sub-Saharan Africa,Low income,21.7111132136498,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,South Sudan,2017,Sub-Saharan Africa,Low income,187.851630279441,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2017,Sub-Saharan Africa,Low income,32.3516260968436,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2017,Sub-Saharan Africa,Lower middle income,29.8444799015679,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,"Egypt, Arab Rep.",2017,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,29.5066083940038,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Libya,2017,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,25.8036184788336,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,South Sudan,2018,Sub-Saharan Africa,Low income,83.5015294921999,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2018,Sub-Saharan Africa,Low income,63.2925073455887,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Liberia,2018,Sub-Saharan Africa,Low income,23.5635148953741,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zimbabwe,2019,Sub-Saharan Africa,Lower middle income,255.304990757855,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,South Sudan,2019,Sub-Saharan Africa,Low income,87.2413641500032,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2019,Sub-Saharan Africa,Low income,50.9940515002964,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Liberia,2019,Sub-Saharan Africa,Low income,26.9662760197878,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zimbabwe,2020,Sub-Saharan Africa,Lower middle income,557.20181736205,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2020,Sub-Saharan Africa,Low income,163.257782355457,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,South Sudan,2020,Sub-Saharan Africa,Low income,29.6758435538571,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2020,Sub-Saharan Africa,Lower middle income,22.2715392470509,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ethiopia,2020,Sub-Saharan Africa,Low income,20.3563468559061,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2021,Sub-Saharan Africa,Low income,359.093040778998,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zimbabwe,2021,Sub-Saharan Africa,Lower middle income,98.5461050920623,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ethiopia,2021,Sub-Saharan Africa,Low income,26.8395221557722,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2021,Sub-Saharan Africa,Lower middle income,25.754294884189,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zambia,2021,Sub-Saharan Africa,Lower middle income,22.0207676245776,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sudan,2022,Sub-Saharan Africa,Low income,138.80846024176,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Zimbabwe,2022,Sub-Saharan Africa,Lower middle income,104.705170628667,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ethiopia,2022,Sub-Saharan Africa,Low income,33.8898797100898,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ghana,2022,Sub-Saharan Africa,Lower middle income,31.2558951049016,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sierra Leone,2022,Sub-Saharan Africa,Low income,27.2082883814653,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2022,Sub-Saharan Africa,Lower middle income,21.3552901320822,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2022,Sub-Saharan Africa,Low income,20.953969729969,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sierra Leone,2023,Sub-Saharan Africa,Low income,47.6428733253178,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ghana,2023,Sub-Saharan Africa,Lower middle income,38.1069656296501,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,"Egypt, Arab Rep.",2023,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,33.8847763115546,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ethiopia,2023,Sub-Saharan Africa,Low income,30.2188278135278,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2023,Sub-Saharan Africa,Low income,28.7897428247298,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Burundi,2023,Sub-Saharan Africa,Low income,26.9414835762453,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Nigeria,2023,Sub-Saharan Africa,Lower middle income,24.6595502031139,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sao Tome and Principe,2023,Sub-Saharan Africa,Lower middle income,21.2589138472999,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,South Sudan,2024,Sub-Saharan Africa,Low income,91.4408220769045,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Nigeria,2024,Sub-Saharan Africa,Lower middle income,33.2416590552748,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Malawi,2024,Sub-Saharan Africa,Low income,32.1796504225025,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Sierra Leone,2024,Sub-Saharan Africa,Low income,28.6337500014114,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,"Egypt, Arab Rep.",2024,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,28.2705899322082,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Angola,2024,Sub-Saharan Africa,Lower middle income,28.2404948915772,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ghana,2024,Sub-Saharan Africa,Lower middle income,22.8483281157842,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Ethiopia,2024,Sub-Saharan Africa,Low income,21.037746057771,-8.308853846641538,20.11527205050505,above_upper_bound,False
+inflation_rate,Burundi,2024,Sub-Saharan Africa,Low income,20.2124925027847,-8.308853846641538,20.11527205050505,above_upper_bound,False
+internet_users,Seychelles,2017,Sub-Saharan Africa,High income,62.55310059,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Morocco,2017,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,61.7622120123071,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Seychelles,2018,Sub-Saharan Africa,High income,69.23660278,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Morocco,2018,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,64.8038651924043,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Tunisia,2018,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,64.1908102327387,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,South Africa,2018,Sub-Saharan Africa,Upper middle income,62.40000153,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Morocco,2019,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,84.1203630467602,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Seychelles,2019,Sub-Saharan Africa,High income,76.63420105,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Libya,2019,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,71.40409851,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,South Africa,2019,Sub-Saharan Africa,Upper middle income,69.69689941,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Tunisia,2019,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,66.6999983024144,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Cabo Verde,2019,Sub-Saharan Africa,Upper middle income,61.9433977593088,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Mauritius,2019,Sub-Saharan Africa,Upper middle income,61.7299551453346,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Morocco,2020,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,84.12036305,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Seychelles,2020,Sub-Saharan Africa,High income,79.25170135,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Libya,2020,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,74.35810089,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,South Africa,2020,Sub-Saharan Africa,Upper middle income,72.1128006,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,"Egypt, Arab Rep.",2020,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,71.91420096,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Cabo Verde,2020,Sub-Saharan Africa,Upper middle income,69.37339783,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Tunisia,2020,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,68.55639648,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Mauritius,2020,Sub-Saharan Africa,Upper middle income,67.73290684,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Gabon,2020,Sub-Saharan Africa,Upper middle income,63.91790009,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Algeria,2020,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,63.47269821,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Ghana,2020,Sub-Saharan Africa,Lower middle income,62.51760101,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Morocco,2021,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,88.13031937,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Seychelles,2021,Sub-Saharan Africa,High income,81.99530029,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Libya,2021,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,77.438797,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,South Africa,2021,Sub-Saharan Africa,Upper middle income,74.96859741,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Algeria,2021,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,72.21240234,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,"Egypt, Arab Rep.",2021,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,72.05599976,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Mauritius,2021,Sub-Saharan Africa,Upper middle income,71.59999847,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Cabo Verde,2021,Sub-Saharan Africa,Upper middle income,70.28250122,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Ghana,2021,Sub-Saharan Africa,Lower middle income,68.6,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Tunisia,2021,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,68.31552226,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Gabon,2021,Sub-Saharan Africa,Upper middle income,65.76809692,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Djibouti,2021,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,61.41120148,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Morocco,2022,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,89.9,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Seychelles,2022,Sub-Saharan Africa,High income,84.83380127,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Libya,2022,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,80.64720154,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,South Africa,2022,Sub-Saharan Africa,Upper middle income,78.29319763,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Mauritius,2022,Sub-Saharan Africa,Upper middle income,75.5,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Algeria,2022,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,74.78150177,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Cabo Verde,2022,Sub-Saharan Africa,Upper middle income,73.32740021,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,"Egypt, Arab Rep.",2022,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,72.19806556,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Ghana,2022,Sub-Saharan Africa,Lower middle income,69.91329956,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Gabon,2022,Sub-Saharan Africa,Upper middle income,67.67169952,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Djibouti,2022,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,63.77600098,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Equatorial Guinea,2022,Sub-Saharan Africa,Upper middle income,63.65950012,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Namibia,2022,Sub-Saharan Africa,Lower middle income,62.99720001,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Morocco,2023,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,91.0,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Seychelles,2023,Sub-Saharan Africa,High income,86.001297,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Libya,2023,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,82.10469818,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Mauritius,2023,Sub-Saharan Africa,Upper middle income,79.5,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,South Africa,2023,Sub-Saharan Africa,Upper middle income,78.33670044,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Algeria,2023,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,76.19760132,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Cabo Verde,2023,Sub-Saharan Africa,Upper middle income,74.59919739,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,"Egypt, Arab Rep.",2023,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,74.01190186,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Ghana,2023,Sub-Saharan Africa,Lower middle income,70.67430115,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Gabon,2023,Sub-Saharan Africa,Upper middle income,68.19789886,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Djibouti,2023,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,64.75869751,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Namibia,2023,Sub-Saharan Africa,Lower middle income,63.69549942,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Equatorial Guinea,2023,Sub-Saharan Africa,Upper middle income,63.51950073,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Eswatini,2023,Sub-Saharan Africa,Lower middle income,61.33330154,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Morocco,2024,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,91.2,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Seychelles,2024,Sub-Saharan Africa,High income,87.81800079,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Libya,2024,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,81.95449829,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,South Africa,2024,Sub-Saharan Africa,Upper middle income,78.35759735,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Algeria,2024,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,77.4178009,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Tunisia,2024,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,76.5,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Cabo Verde,2024,Sub-Saharan Africa,Upper middle income,74.73519897,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,"Egypt, Arab Rep.",2024,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,74.64839935,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Mauritius,2024,Sub-Saharan Africa,Upper middle income,73.30793533,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Ghana,2024,Sub-Saharan Africa,Lower middle income,72.17569733,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Gabon,2024,Sub-Saharan Africa,Upper middle income,68.72090149,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Djibouti,2024,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,65.29889679,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Namibia,2024,Sub-Saharan Africa,Lower middle income,64.87460327,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Eswatini,2024,Sub-Saharan Africa,Lower middle income,63.40309906,-33.84819973,60.946999678,above_upper_bound,False
+internet_users,Equatorial Guinea,2024,Sub-Saharan Africa,Upper middle income,63.29930115,-33.84819973,60.946999678,above_upper_bound,False
+life_expectancy,Central African Republic,2009,Sub-Saharan Africa,Low income,14.665,40.543875,80.03487500000001,below_lower_bound,False
+life_expectancy,"Somalia, Fed. Rep.",2011,Sub-Saharan Africa,Low income,32.453,40.543875,80.03487500000001,below_lower_bound,False
+life_expectancy,Central African Republic,2014,Sub-Saharan Africa,Low income,40.265,40.543875,80.03487500000001,below_lower_bound,False
+life_expectancy,South Sudan,2015,Sub-Saharan Africa,Low income,39.757,40.543875,80.03487500000001,below_lower_bound,False
+life_expectancy,South Sudan,2016,Sub-Saharan Africa,Low income,36.72,40.543875,80.03487500000001,below_lower_bound,False
+life_expectancy,South Sudan,2017,Sub-Saharan Africa,Low income,35.351,40.543875,80.03487500000001,below_lower_bound,False
+life_expectancy,Central African Republic,2019,Sub-Saharan Africa,Low income,31.53,40.543875,80.03487500000001,below_lower_bound,False
+life_expectancy,Central African Republic,2021,Sub-Saharan Africa,Low income,40.279,40.543875,80.03487500000001,below_lower_bound,False
+life_expectancy,Central African Republic,2022,Sub-Saharan Africa,Low income,18.818,40.543875,80.03487500000001,below_lower_bound,False
+population,Nigeria,2000,Sub-Saharan Africa,Lower middle income,126382494.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2000,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,73083284.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2000,Sub-Saharan Africa,Low income,67411494.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2001,Sub-Saharan Africa,Lower middle income,129862595.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2001,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,74652029.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2001,Sub-Saharan Africa,Low income,69487762.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2002,Sub-Saharan Africa,Lower middle income,133471989.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2002,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,76239137.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2002,Sub-Saharan Africa,Low income,71635517.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2003,Sub-Saharan Africa,Lower middle income,137202644.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2003,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,77853548.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2003,Sub-Saharan Africa,Low income,73832663.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2004,Sub-Saharan Africa,Lower middle income,141057045.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2004,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,79477443.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2004,Sub-Saharan Africa,Low income,76077206.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2005,Sub-Saharan Africa,Lower middle income,145017253.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2005,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,81101004.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2005,Sub-Saharan Africa,Low income,78367470.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2006,Sub-Saharan Africa,Lower middle income,149077334.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2006,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,82700403.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2006,Sub-Saharan Africa,Low income,80703490.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2006,Sub-Saharan Africa,Low income,60615908.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2007,Sub-Saharan Africa,Lower middle income,153267261.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2007,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,84276225.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2007,Sub-Saharan Africa,Low income,83103217.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2007,Sub-Saharan Africa,Low income,62477752.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2008,Sub-Saharan Africa,Lower middle income,157595014.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2008,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,85864789.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2008,Sub-Saharan Africa,Low income,85543668.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2008,Sub-Saharan Africa,Low income,64390664.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2009,Sub-Saharan Africa,Lower middle income,162049464.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2009,Sub-Saharan Africa,Low income,88007636.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2009,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,87501636.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2009,Sub-Saharan Africa,Low income,66412044.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2010,Sub-Saharan Africa,Lower middle income,166642886.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2010,Sub-Saharan Africa,Low income,90538514.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2010,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,89196072.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2010,Sub-Saharan Africa,Low income,68563038.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2011,Sub-Saharan Africa,Lower middle income,171379598.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2011,Sub-Saharan Africa,Low income,93149970.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2011,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,91093059.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2011,Sub-Saharan Africa,Low income,70849311.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2012,Sub-Saharan Africa,Lower middle income,176200625.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2012,Sub-Saharan Africa,Low income,95798767.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2012,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,93161001.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2012,Sub-Saharan Africa,Low income,73254618.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2013,Sub-Saharan Africa,Lower middle income,181049443.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2013,Sub-Saharan Africa,Low income,98438751.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2013,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,95333553.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2013,Sub-Saharan Africa,Low income,75789395.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2014,Sub-Saharan Africa,Lower middle income,185896915.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2014,Sub-Saharan Africa,Low income,101115610.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2014,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,97528654.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2014,Sub-Saharan Africa,Low income,78403242.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2015,Sub-Saharan Africa,Lower middle income,190671878.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2015,Sub-Saharan Africa,Low income,103867135.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2015,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,99597342.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2015,Sub-Saharan Africa,Low income,81035531.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2016,Sub-Saharan Africa,Lower middle income,195443700.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2016,Sub-Saharan Africa,Low income,106718162.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2016,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,101644589.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2016,Sub-Saharan Africa,Low income,83956415.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2017,Sub-Saharan Africa,Lower middle income,200254579.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2017,Sub-Saharan Africa,Low income,109666481.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2017,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,103696057.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2017,Sub-Saharan Africa,Low income,87083398.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2018,Sub-Saharan Africa,Lower middle income,204938755.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2018,Sub-Saharan Africa,Low income,112664152.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2018,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,105682094.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2018,Sub-Saharan Africa,Low income,90047644.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2019,Sub-Saharan Africa,Lower middle income,209485641.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2019,Sub-Saharan Africa,Low income,115737383.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2019,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,107553158.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2019,Sub-Saharan Africa,Low income,92947442.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2020,Sub-Saharan Africa,Lower middle income,213996181.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2020,Sub-Saharan Africa,Low income,118917671.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2020,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,109315124.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2020,Sub-Saharan Africa,Low income,95989998.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Tanzania,2020,Sub-Saharan Africa,Lower middle income,60972798.0,-31879360.875,59764448.125,above_upper_bound,False
+population,South Africa,2020,Sub-Saharan Africa,Upper middle income,60562381.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2021,Sub-Saharan Africa,Lower middle income,218529286.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2021,Sub-Saharan Africa,Low income,122138588.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2021,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,110957008.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2021,Sub-Saharan Africa,Low income,99148932.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Tanzania,2021,Sub-Saharan Africa,Lower middle income,62830412.0,-31879360.875,59764448.125,above_upper_bound,False
+population,South Africa,2021,Sub-Saharan Africa,Upper middle income,61502603.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2022,Sub-Saharan Africa,Lower middle income,223150896.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2022,Sub-Saharan Africa,Low income,125384287.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2022,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,112618250.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2022,Sub-Saharan Africa,Low income,102396968.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Tanzania,2022,Sub-Saharan Africa,Lower middle income,64711821.0,-31879360.875,59764448.125,above_upper_bound,False
+population,South Africa,2022,Sub-Saharan Africa,Upper middle income,62378410.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2023,Sub-Saharan Africa,Lower middle income,227882945.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2023,Sub-Saharan Africa,Low income,128691692.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2023,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,114535772.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2023,Sub-Saharan Africa,Low income,105789731.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Tanzania,2023,Sub-Saharan Africa,Lower middle income,66617606.0,-31879360.875,59764448.125,above_upper_bound,False
+population,South Africa,2023,Sub-Saharan Africa,Upper middle income,63212384.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Nigeria,2024,Sub-Saharan Africa,Lower middle income,232679478.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Ethiopia,2024,Sub-Saharan Africa,Low income,132059767.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Egypt, Arab Rep.",2024,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,116538258.0,-31879360.875,59764448.125,above_upper_bound,False
+population,"Congo, Dem. Rep.",2024,Sub-Saharan Africa,Low income,109276265.0,-31879360.875,59764448.125,above_upper_bound,False
+population,Tanzania,2024,Sub-Saharan Africa,Lower middle income,68560157.0,-31879360.875,59764448.125,above_upper_bound,False
+population,South Africa,2024,Sub-Saharan Africa,Upper middle income,64007187.0,-31879360.875,59764448.125,above_upper_bound,False
+unemployment_rate,Eswatini,2020,Sub-Saharan Africa,Lower middle income,32.978,-13.229875,30.665125,above_upper_bound,False
+unemployment_rate,Eswatini,2021,Sub-Saharan Africa,Lower middle income,34.153,-13.229875,30.665125,above_upper_bound,False
+unemployment_rate,South Africa,2021,Sub-Saharan Africa,Upper middle income,34.007,-13.229875,30.665125,above_upper_bound,False
+unemployment_rate,Eswatini,2022,Sub-Saharan Africa,Lower middle income,36.472,-13.229875,30.665125,above_upper_bound,False
+unemployment_rate,South Africa,2022,Sub-Saharan Africa,Upper middle income,33.268,-13.229875,30.665125,above_upper_bound,False
+unemployment_rate,Eswatini,2023,Sub-Saharan Africa,Lower middle income,34.61,-13.229875,30.665125,above_upper_bound,False
+unemployment_rate,South Africa,2023,Sub-Saharan Africa,Upper middle income,32.098,-13.229875,30.665125,above_upper_bound,False
+unemployment_rate,Eswatini,2024,Sub-Saharan Africa,Lower middle income,34.643,-13.229875,30.665125,above_upper_bound,False
+unemployment_rate,South Africa,2024,Sub-Saharan Africa,Upper middle income,32.279,-13.229875,30.665125,above_upper_bound,False
